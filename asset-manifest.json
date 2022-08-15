@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/01-02-styling-of-components/static/css/main.a6979fc2.css",
+    "main.js": "/01-02-styling-of-components/static/js/main.df2248a4.js",
+    "index.html": "/01-02-styling-of-components/index.html",
+    "main.a6979fc2.css.map": "/01-02-styling-of-components/static/css/main.a6979fc2.css.map",
+    "main.df2248a4.js.map": "/01-02-styling-of-components/static/js/main.df2248a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6979fc2.css",
+    "static/js/main.df2248a4.js"
+  ]
+}
